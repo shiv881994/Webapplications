@@ -8,6 +8,7 @@
 </head>
 <body>
 Hello WAR.!!
-Try Merging and pull
+
+    <br>Check for email notification/br>
 </body>
 </html>
