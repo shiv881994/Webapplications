@@ -7,8 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello WAR Working correctly....!!
-Test With Jenkins Auto Deployment
-Test It Again for jenkins
+Hello WAR.!!
+
 </body>
 </html>
