@@ -8,5 +8,6 @@
 </head>
 <body>
 Hello WAR Working correctly....!!
+Test With Jenkins Auto Deployment
 </body>
 </html>
