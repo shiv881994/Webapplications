@@ -1,4 +1,4 @@
-package com.servlete;
+/* package com.servlete;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -39,3 +39,4 @@ public class Test extends HttpServlet {
 	}
 
 }
+ */
